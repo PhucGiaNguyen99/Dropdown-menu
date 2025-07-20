@@ -1,4 +1,4 @@
-import '.style.css';
+import './style.css';
 import { setupDropdowns } from './modules/dropdown';
 import { setupCarousel } from './modules/carousel';
 
